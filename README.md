@@ -8,3 +8,5 @@
 [Ejercicios python](https://github.com/XimenaCS/Mineria_de_Datos/blob/main/Ej_python_1850231.ipynb)
 
 [Ejercicio limpieza python](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
+
+[Avance 1 PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Avance1_PIA_2.ipynb)
