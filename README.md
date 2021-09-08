@@ -10,3 +10,6 @@
 [Ejercicio limpieza python](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
 
 [Avance 1 PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Avance1_PIA_2.ipynb)
+
+## Fase II
+[Presentación técnicas de minería](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
