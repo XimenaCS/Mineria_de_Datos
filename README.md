@@ -13,3 +13,5 @@
 
 ## Fase II
 [Presentación técnicas de minería](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
+
+[Código outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Pruebas_outliers.ipynb)
