@@ -21,3 +21,7 @@
 [Práctica 2: Visualización de Datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Visualizacion_Equipo2.ipynb)
 
 [Avance 2 PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2.ipynb)
+
+[Avance 2 PIA CORREGIDO](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2_corregido.ipynb)
+
+[Práctica Técnicas de Minería](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/T%C3%A9cnicas_de_Mineria_Equipo_02.ipynb)
