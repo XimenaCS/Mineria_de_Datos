@@ -28,3 +28,5 @@
 
 ## Fase III
 [Notebook Equipo II](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Notebook_Equipo2.ipynb)
+
+[Póster PIA Equipo II](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AN%C3%81LISIS%20DE%20VENTAS%20DE%20VERANO%20EN%20WISH.pdf)
